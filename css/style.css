@@ -1,0 +1,10 @@
+.image-responsive{
+    width: 500px;
+    height: 500px;
+}
+@media only screen and (max-width: 600px) {
+    .image-responsive{
+        width: 250px;
+        height: 250px;
+    }
+  }
